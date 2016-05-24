@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -O3 -DNDEBUG    CMakeFiles/Testing.dir/Testing.cpp.o CMakeFiles/Testing.dir/__/src/TestClass.cpp.o CMakeFiles/Testing.dir/__/src/Coordinates.cpp.o  -o ../Testing -rdynamic 

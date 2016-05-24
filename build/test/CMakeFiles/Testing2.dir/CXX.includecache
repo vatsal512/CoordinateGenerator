@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../inc/TestClass.h
+iostream
+-
+
+/home/vatsal/CoordinateGenerator/src/TestClass.cpp
+TestClass.h
+/home/vatsal/CoordinateGenerator/src/TestClass.h
+
+/home/vatsal/CoordinateGenerator/test/Testing2.cpp
+iostream
+-
+

@@ -1,0 +1,2 @@
+/home/vatsal/CoordinateGenerator/build/test/CMakeFiles/TestCoordinates.dir
+/home/vatsal/CoordinateGenerator/build/test/CMakeFiles/Testing.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -O3 -DNDEBUG    CMakeFiles/TestCoordinates.dir/TestCoordinates.cpp.o CMakeFiles/TestCoordinates.dir/__/src/TestClass.cpp.o CMakeFiles/TestCoordinates.dir/__/src/Coordinates.cpp.o  -o ../TestCoordinates -rdynamic 

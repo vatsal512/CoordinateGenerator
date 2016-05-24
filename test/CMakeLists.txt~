@@ -1,6 +1,6 @@
 set(TEST_EXECUTABLES
 ${CMAKE_SOURCE_DIR}/test/Testing.cpp
-${CMAKE_SOURCE_DIR}/test/TestCoordinates.cpp
+${CMAKE_SOURCE_DIR}/test/Testing2.cpp
 )
 
 macro(build_executables EXECUTABLES)
