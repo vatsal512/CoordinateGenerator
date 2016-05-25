@@ -12,6 +12,12 @@ iostream
 vector
 -
 
+/home/vatsal/CoordinateGenerator/src/Coordinates.cpp
+Coordinates.h
+/home/vatsal/CoordinateGenerator/src/Coordinates.h
+math.h
+-
+
 /home/vatsal/CoordinateGenerator/test/TestCoordinates.cpp
 iostream
 -
