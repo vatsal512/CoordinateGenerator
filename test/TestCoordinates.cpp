@@ -4,7 +4,8 @@ int main()
 {
 	Coordinates c;
 	
-	c.CoGenerator(3,30);
+	c.CoGenerator(10,30);
 	c.Print();
+	std::cout<<c.coordinate[0][0]<<std::endl;
 	return 0;
 }

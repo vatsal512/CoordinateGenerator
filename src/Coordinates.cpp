@@ -10,6 +10,11 @@
 	{
 		N = N1;
 		M = M1;
+		//std::cout<<"test"<<std::endl;
+			// Set up sizes. (HEIGHT x WIDTH)
+	 	 coordinate.resize(N);
+	  		for (int i = 0; i < N; ++i)
+	    		coordinate[i].resize(3);
 		/*
 		coordinate = new double*[N];
 
@@ -57,6 +62,6 @@
 
 		for(int i = 0 ; i < N ; i++)
 		{
-			std::cout<<floor( (coordinate[i][0]+(double)50) /3.125 )<<" "<<floor( (coordinate[i][1]+(double)50)/3.125)<<" "<<coordinate[i][2]<<std::endl;
+			std::cout<<floor( (coordinate[i][0]+(double)50) /3.125 )<<" "<<floor( (coordinate[i][1]+(double)50)/3.125)<<std::endl;
 		}		
 	}

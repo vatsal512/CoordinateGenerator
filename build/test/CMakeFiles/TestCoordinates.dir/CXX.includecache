@@ -9,10 +9,12 @@
 ../inc/Coordinates.h
 iostream
 -
-
-/home/vatsal/CoordinateGenerator/src/Coordinates.cpp
-Coordinates.h
-/home/vatsal/CoordinateGenerator/src/Coordinates.h
-math.h
+vector
 -
+
+/home/vatsal/CoordinateGenerator/test/TestCoordinates.cpp
+iostream
+-
+Coordinates.h
+/home/vatsal/CoordinateGenerator/test/Coordinates.h
 
